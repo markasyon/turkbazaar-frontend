@@ -1,0 +1,1 @@
+console.log('TurkBazaar frontend initialized');
